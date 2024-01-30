@@ -1,0 +1,565 @@
+﻿Razer Cortex Diagnostics Report v2.0  Version： 9.17.6.1483
+Date： 2021 11 07 21:36:58
+
+----------------------------------
+01 - Operating System
+----------------------------------
+
+0101 - Operating System : Windows 10 Pro 64-bit (10.0, Build 19042) (19041.vb_release.191206-1406)
+0102 - Language : English (Regional Setting: English)
+0103 - BIOS : InsydeH2O Version 03.73.08F.15
+0104 - Processor : n/a
+0105 - Memory : 8192MB RAM
+0106 - Available OS Memory : 8090MB RAM
+0107 - Page File : 5052MB used, 11230MB available
+0108 - Windows Dir : C:\WINDOWS
+0109 - DirectX Version : DirectX 12
+0110 - DX Setup Parameters : Not found
+0111 - User DPI Setting : Using System DPI
+0112 - System DPI Setting : 96 DPI (100 percent)
+0113 - DWM DPI Scaling : Disabled
+0114 - DxDiag Version : 10.00.19041.0928
+
+----------------------------------
+02 - Processor
+----------------------------------
+
+0201 - Caption : Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz x4 ~2601MHz
+0202 - Current Clock Speed : 2500MHz
+
+----------------------------------
+03 - Video Adapter
+----------------------------------
+
+0301 - Card Name : Intel(R) HD Graphics 4000
+0302 - Manufacturer : Intel Corporation
+0303 - Chiptype : Intel(R) HD Graphics Family
+0304 - DAC Type : Internal
+0305 - Device Key : Enum\PCI\VEN_8086&DEV_0166&SUBSYS_196D103C&REV_09
+0306 - Display Memory : 1792 MB
+0307 - AdapterRAM : 2.64 GB
+0308 - Current Mode : 1366 x 768 (32 bit) (60Hz)
+0309 - Monitor Name : Generic PnP Monitor
+0310 - Driver Name : igdumdim64.dll,igd10iumd64.dll,igd10iumd64.dll
+0311 - Driver Version : 10.18.0010.4358
+0312 - Driver Language : English
+0313 - DDI Version : 11.2
+0314 - Driver Model : WDDM 1.3
+0315 - Driver Beta : False
+0316 - Driver Debug : False
+0317 - Driver Date : 21 Dec 15 03:00:00
+0318 - Driver Size : 11157656
+0319 - VDD : unknown
+0320 - Mini VDD : unknown
+0321 - Mini VDD Date : Unknown
+0322 - Mini VDD Size : 0
+0323 - Device Identifier : {D7B78E66-4226-11CF-8A62-6739B4C2C735}
+0324 - Vendor ID : 0x8086
+0325 - Device ID : 0x0166
+ : 0x196D103C
+0327 - Revision ID : 0x0009
+0328 - Driver Strong Name : oem62.inf:5f63e5341859ec8c:iIVBM_w10:10.18.10.4358:pci\ven_8086&dev_0166
+0329 - Rank Of Driver : 00D12001
+0330 - Video Accel : ModeMPEG2_A ModeMPEG2_C ModeWMV9_C ModeVC1_C
+0331 - Deinterlace Caps : {BF752EF6-8CC4-457A-BE1B-08BD1CAEEE9F}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_EdgeFiltering 
+{335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBVerticalStretch 
+{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend 
+{BF752EF6-8CC4-457A-BE1B-08BD1CAEEE9F}: Format(In/Out)=(UYVY,YUY2) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_EdgeFiltering 
+{335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(UYVY,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBVerticalStretch 
+{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(UYVY,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend 
+{BF752EF6-8CC4-457A-BE1B-08BD1CAEEE9F}: Format(In/Out)=(YV12,YUY2) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_EdgeFiltering 
+{335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YV12,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBVerticalStretch 
+{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YV12,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend 
+{BF752EF6-8CC4-457A-BE1B-08BD1CAEEE9F}: Format(In/Out)=(NV12,YUY2) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_EdgeFiltering 
+{335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(NV12,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBVerticalStretch 
+{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(NV12,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend 
+{BF752EF6-8CC4-457A-BE1B-08BD1CAEEE9F}: Format(In/Out)=(IMC1,YUY2) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_EdgeFiltering 
+{335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC1,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBVerticalStretch 
+{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC1,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend 
+{BF752EF6-8CC4-457A-BE1B-08BD1CAEEE9F}: Format(In/Out)=(IMC2,YUY2) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_EdgeFiltering 
+{335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBVerticalStretch 
+{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend 
+{BF752EF6-8CC4-457A-BE1B-08BD1CAEEE9F}: Format(In/Out)=(IMC3,YUY2) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_EdgeFiltering 
+{335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC3,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBVerticalStretch 
+{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC3,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend 
+{BF752EF6-8CC4-457A-BE1B-08BD1CAEEE9F}: Format(In/Out)=(IMC4,YUY2) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_EdgeFiltering 
+{335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC4,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend DeinterlaceTech_BOBVerticalStretch 
+{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC4,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY VideoProcess_AlphaBlend
+0332 - D3D9 Overlay : Supported
+0333 - DXVA-HD : Supported
+0334 - DDraw Status : Enabled
+0335 - D3D Status : Enabled
+0336 - AGP Status : Enabled
+0337 - Notes : No problems found.
+
+
+0338 - OpenGL : 10.0.19041.928 (WinBuild.160101.0800)
+
+----------------------------------
+04 - Memory
+----------------------------------
+0401 - Total Memory : 7.922 GB
+0402 - Free Memory : 4.188 GB
+0403 - Total Pagefile : 15.922 GB
+0404 - Free Pagefile : 10.1013 GB
+
+0405 - Bank Label : BANK 0
+0406 - Speed : 1600 MHz
+0407 - Total Width : 64 Bits
+0408 - Capacity : 4.00 GB
+
+0405 - Bank Label : BANK 1
+0406 - Speed : 1600 MHz
+0407 - Total Width : 64 Bits
+0408 - Capacity : 4.00 GB
+
+----------------------------------
+05 - Network
+----------------------------------
+
+0501 - Description : Ralink RT3290 802.11bgn Wi-Fi Adapter
+0502 - Driver Date : 7-3-2015
+0503 - Driver Version : 5.0.59.0
+
+----------------------------------
+06 - Motherboard
+----------------------------------
+
+0601 - Model : 196D
+0602 - Manufacturer : Hewlett-Packard
+
+----------------------------------
+07 - Sound Device
+----------------------------------
+
+0701 - Description : Speaker/Headphone (Realtek High Definition Audio)
+0702 - Default Sound Playback : True
+0703 - Default Voice Playback : True
+0704 - Hardware ID : HDAUDIO\FUNC_01&VEN_10EC&DEV_0282&SUBSYS_103C196D&REV_1000
+0705 - Manufacturer ID : N/A
+0706 - Product ID : N/A
+0707 - Type : N/A
+0708 - Driver Name : RTKVHD64.sys
+0709 - Driver Version : 6.0.8746.1
+0711 - Date and Size : 02 Jul 19 03:00:00
+0713 - Driver Provider : Realtek Semiconductor Corp.
+0714 - Min/Max Sample Rate : N/A, N/A
+0715 - Static/Strm HW Mix Bufs : N/A, N/A
+0716 - Static/Strm HW 3D Bufs : N/A, N/A
+0717 - HW Memory : N/A
+0718 - Voice Management : False
+0719 - EAX(tm) 2.0 Listen/Src : False, False
+0720 - I3DL2(tm) Listen/Src : False, False
+0721 - Notes : No problems found.
+
+
+----------------------------------
+08 - Harddisk
+----------------------------------
+
+0801 - Model : TOSHIBA MQ01ABD075 SCSI Disk Device
+0802 - Media Type : Fixed hard disk media
+0803 - Size : 698.650 GB
+0804 - Interface Type : Serial ATA
+
+0807 - Caption : C:\
+0808 - Capacity : 229.806 GB
+0809 - Free Space : 24.836 GB
+0810 - Drive Type : 3-Fixed
+0811 - File System : NTFS
+
+0807 - Caption : D:\
+0808 - Capacity : 468.766 GB
+0809 - Free Space : 31.680 GB
+0810 - Drive Type : 3-Fixed
+0811 - File System : NTFS
+
+----------------------------------
+09 - Process
+----------------------------------
+
+0901 - 0000 [System Process]                                                                              
+0901 - 0004 System                                                                                        
+0901 - 0064 Registry                                                                                      
+0901 - 01f4 smss.exe                                                                                      
+0901 - 02b8 csrss.exe                                                                                     
+0901 - 0314 wininit.exe                                                                                   
+0901 - 0328 csrss.exe                                                                                     
+0901 - 035c winlogon.exe                                                                     high         C:\Windows\System32\winlogon.exe
+0901 - 03a4 services.exe                                                                                  
+0901 - 03ac lsass.exe                                                                        normal       C:\Windows\System32\lsass.exe
+0901 - 018c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0268 fontdrvhost.exe                                                                  normal       C:\Windows\System32\fontdrvhost.exe
+0901 - 027c fontdrvhost.exe                                                                  normal       C:\Windows\System32\fontdrvhost.exe
+0901 - 0008 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0420 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0478 dwm.exe                                                                          high         C:\Windows\System32\dwm.exe
+0901 - 04e8 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0540 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0548 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 059c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 05a4 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 069c TeraCopyService.exe                                                              normal       C:\Program Files\TeraCopy\TeraCopyService.exe
+0901 - 06c4 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 06d4 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 06d0 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 06e8 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0740 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 074c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 07e8 wsc_proxy.exe                                                                                 
+0901 - 081c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0824 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0840 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 08ec svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0900 Memory Compression                                                                            
+0901 - 090c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0938 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0978 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 09bc svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 09ec igfxCUIService.exe                                                               normal       C:\Windows\System32\igfxCUIService.exe
+0901 - 0a3c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0ad0 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0b98 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0be0 hpservice.exe                                                                    normal       C:\Windows\System32\hpservice.exe
+0901 - 09b0 RtkAudioService64.exe                                                            normal       C:\Program Files\Realtek\Audio\HDA\RtkAudioService64.exe
+0901 - 0c2c RAVBg64.exe                                                                      normal       C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe
+0901 - 0c58 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0c64 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0c60 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0cec svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0d58 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0da8 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0db0 AvastSvc.exe                                                                                  
+0901 - 0e2c aswToolsSvc.exe                                                                  normal       C:\Program Files\AVAST Software\Avast\aswToolsSvc.exe
+0901 - 0fa8 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0b5c AdobeUpdateService.exe                                                           normal       C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\ElevationManager\AdobeUpdateService.exe
+0901 - 0b50 AERTSr64.exe                                                                     normal       C:\Program Files\Realtek\Audio\HDA\AERTSr64.exe
+0901 - 0278 AGMService.exe                                                                   normal       C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\AGMService.exe
+0901 - 1008 armsvc.exe                                                                       normal       C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe
+0901 - 1010 AGSService.exe                                                                   normal       C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\AGSService.exe
+0901 - 101c HidMonitorSvc.exe                                                                normal       C:\Program Files\Apoint2K\HidMonitorSvc.exe
+0901 - 103c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 104c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 1058 BlueSoleilCS.exe                                                                 normal       C:\Program Files (x86)\Ralink Corporation\Ralink Bluetooth Stack\BlueSoleilCS.exe
+0901 - 1064 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 107c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 10d0 E_S40STB.EXE                                                                     normal       C:\ProgramData\EPSON\EPW!3 SSRP\E_S40STB.EXE
+0901 - 10e4 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 10f8 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 115c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 1170 sqlservr.exe                                                                     normal       C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\Binn\sqlservr.exe
+0901 - 117c MsDtsSrvr.exe                                                                    normal       C:\Program Files\Microsoft SQL Server\120\DTS\Binn\MsDtsSrvr.exe
+0901 - 1194 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 11a0 mqsvc.exe                                                                        normal       C:\Windows\System32\mqsvc.exe
+0901 - 11b0 msmdsrv.exe                                                                      normal       C:\Program Files\Microsoft SQL Server\MSAS12.MSSQLSERVER\OLAP\bin\msmdsrv.exe
+0901 - 11dc SMSvcHost.exe                                                                    normal       C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SMSvcHost.exe
+0901 - 11f0 PassThruSvr.exe                                                                  normal       C:\Program Files (x86)\HTC\Internet Pass-Through\PassThruSvr.exe
+0901 - 1208 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 1218 GameManagerService.exe                                                           normal       C:\Program Files (x86)\Razer\Razer Services\GMS\GameManagerService.exe
+0901 - 1230 RazerCentralService.exe                                                          normal       C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe
+0901 - 1238 RzKLService.exe                                                                  normal       C:\Program Files (x86)\Razer\Razer Cortex\RzKLService.exe
+0901 - 1268 ReportingServicesService.exe                                                     normal       C:\Program Files\Microsoft SQL Server\MSRS12.MSSQLSERVER\Reporting Services\ReportServer\bin\ReportingServicesService.exe
+0901 - 12a4 sqlbrowser.exe                                                                   normal       C:\Program Files (x86)\Microsoft SQL Server\90\Shared\sqlbrowser.exe
+0901 - 12c0 dasHost.exe                                                                      normal       C:\Windows\System32\dasHost.exe
+0901 - 12dc svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 12e8 DReplayClient.exe                                                                normal       C:\Program Files (x86)\Microsoft SQL Server\120\Tools\DReplayClient\DReplayClient.exe
+0901 - 12f8 DReplayController.exe                                                            normal       C:\Program Files (x86)\Microsoft SQL Server\120\Tools\DReplayController\DReplayController.exe
+0901 - 1304 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 1324 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 15c8 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 1724 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 17a0 BsHelpCS.exe                                                                     normal       C:\Program Files (x86)\Ralink Corporation\Ralink Bluetooth Stack\BsHelpCS.exe
+0901 - 19a4 unsecapp.exe                                                                     normal       C:\Windows\System32\wbem\unsecapp.exe
+0901 - 1a0c SMSvcHost.exe                                                                    normal       C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SMSvcHost.exe
+0901 - 1b24 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 1b30 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 187c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 1bd8 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 1e6c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 1efc aswEngSrv.exe                                                                    normal       C:\Program Files\AVAST Software\Avast\aswEngSrv.exe
+0901 - 0430 svchost.exe                                                                                   
+0901 - 1da0 aswidsagent.exe                                                                               
+0901 - 14d0 fdlauncher.exe                                                                   normal       C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\Binn\fdlauncher.exe
+0901 - 0bd4 fdhost.exe                                                                       normal       C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\Binn\fdhost.exe
+0901 - 1028 conhost.exe                                                                      normal       C:\Windows\System32\conhost.exe
+0901 - 1fbc WmiApSrv.exe                                                                     normal       C:\Windows\System32\wbem\WmiApSrv.exe
+0901 - 0324 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 049c svchost.exe                                                                                   
+0901 - 1fe0 MicrosoftEdgeUpdate.exe                                                          idle         C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+0901 - 13f8 GoogleUpdate.exe                                                                 idle         C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+0901 - 066c HPSupportSolutionsFrameworkService.exe                                           normal       C:\Program Files (x86)\Hewlett-Packard\HP Support Solutions\HPSupportSolutionsFrameworkService.exe
+0901 - 06b0 GoogleCrashHandler.exe                                                           idle         C:\Program Files (x86)\Google\Update\1.3.36.112\GoogleCrashHandler.exe
+0901 - 0458 GoogleCrashHandler64.exe                                                         idle         C:\Program Files (x86)\Google\Update\1.3.36.112\GoogleCrashHandler64.exe
+0901 - 052c SgrmBroker.exe                                                                                
+0901 - 0410 Apoint.exe                                                                       normal       C:\Program Files\Apoint2K\Apoint.exe
+0901 - 196c sihost.exe                                                                       normal       C:\Windows\System32\sihost.exe
+0901 - 0b74 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 04fc PresentationFontCache.exe                                                        normal       C:\Windows\Microsoft.NET\Framework64\v3.0\WPF\PresentationFontCache.exe
+0901 - 1ff8 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 13f0 taskhostw.exe                                                                    normal       C:\Windows\System32\taskhostw.exe
+0901 - 0f04 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 1eb0 ctfmon.exe                                                                       high         C:\Windows\System32\ctfmon.exe
+0901 - 1ee0 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 1dd8 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 1c74 explorer.exe                                                                     normal       C:\Windows\explorer.exe
+0901 - 17b4 ApMsgFwd.exe                                                                     normal       C:\Program Files\Apoint2K\ApMsgFwd.exe
+0901 - 20d4 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 2174 hidfind.exe                                                                      normal       C:\Program Files\Apoint2K\hidfind.exe
+0901 - 2180 ApntEx.exe                                                                       normal       C:\Program Files\Apoint2K\ApntEx.exe
+0901 - 21a4 conhost.exe                                                                      normal       C:\Windows\System32\conhost.exe
+0901 - 221c igfxEM.exe                                                                       normal       C:\Windows\System32\igfxEM.exe
+0901 - 2224 igfxHK.exe                                                                       normal       C:\Windows\System32\igfxHK.exe
+0901 - 222c igfxTray.exe                                                                     normal       C:\Windows\System32\igfxTray.exe
+0901 - 23c4 StartMenuExperienceHost.exe                                                      normal       C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+0901 - 21f8 RuntimeBroker.exe                                                                normal       C:\Windows\System32\RuntimeBroker.exe
+0901 - 1c0c TextInputHost.exe                                                                normal       C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\InputApp\TextInputHost.exe
+0901 - 2424 RuntimeBroker.exe                                                                normal       C:\Windows\System32\RuntimeBroker.exe
+0901 - 24bc svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 268c YourPhone.exe                                                                    normal       C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21084.79.0_x64__8wekyb3d8bbwe\YourPhone.exe
+0901 - 26a4 SettingSyncHost.exe                                                              below normal C:\Windows\System32\SettingSyncHost.exe
+0901 - 0de4 dllhost.exe                                                                      normal       C:\Windows\System32\dllhost.exe
+0901 - 1624 SearchApp.exe                                                                    normal       C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe
+0901 - 2604 SecurityHealthSystray.exe                                                        normal       C:\Windows\System32\SecurityHealthSystray.exe
+0901 - 2040 RtkNGUI64.exe                                                                    normal       C:\Program Files\Realtek\Audio\HDA\RtkNGUI64.exe
+0901 - 098c SecurityHealthService.exe                                                                     
+0901 - 260c RAVBg64.exe                                                                      normal       C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe
+0901 - 14c0 AvastUI.exe                                                                      normal       C:\Program Files\AVAST Software\Avast\AvastUI.exe
+0901 - 0e5c Cortana.exe                                                                      normal       C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_3.2109.6305.0_x64__8wekyb3d8bbwe\Cortana.exe
+0901 - 256c hpwuschd2.exe                                                                    normal       C:\Program Files (x86)\HP\HP Software Update\hpwuschd2.exe
+0901 - 2210 iusb3mon.exe                                                                     normal       C:\Program Files (x86)\Intel\Intel(R) USB 3.0 eXtensible Host Controller Driver\Application\iusb3mon.exe
+0901 - 2238 BtTray.exe                                                                       normal       C:\Program Files (x86)\Ralink Corporation\Ralink Bluetooth Stack\BtTray.exe
+0901 - 0914 RuntimeBroker.exe                                                                normal       C:\Windows\System32\RuntimeBroker.exe
+0901 - 17e4 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 2410 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 2248 RuntimeBroker.exe                                                                normal       C:\Windows\System32\RuntimeBroker.exe
+0901 - 26a8 AvastUI.exe                                                                      above normal C:\Program Files\AVAST Software\Avast\AvastUI.exe
+0901 - 21fc AvastUI.exe                                                                      normal       C:\Program Files\AVAST Software\Avast\AvastUI.exe
+0901 - 07a0 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 294c Microsoft.Photos.exe                                                             normal       C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2021.21090.10007.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe
+0901 - 1f88 RuntimeBroker.exe                                                                normal       C:\Windows\System32\RuntimeBroker.exe
+0901 - 1bc8 ShellExperienceHost.exe                                                          normal       C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+0901 - 0c70 RuntimeBroker.exe                                                                normal       C:\Windows\System32\RuntimeBroker.exe
+0901 - 1a68 RazerCortex.exe                                                                  normal       C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.exe
+0901 - 0eec CefSharp.BrowserSubprocess.exe                                                   normal       C:\Program Files (x86)\Razer\Razer Cortex\Cef\CefSharp.BrowserSubprocess.exe
+0901 - 2348 Razer Central.exe                                                                normal       C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe
+0901 - 1a18 CefSharp.BrowserSubprocess.exe                                                   normal       C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+0901 - 2018 CefSharp.BrowserSubprocess.exe                                                   normal       C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+0901 - 2ff0 PMRunner32.exe                                                                   normal       C:\Program Files (x86)\Razer\Razer Cortex\PMRunner32.exe
+0901 - 25e8 PMRunner64.exe                                                                   normal       C:\Program Files (x86)\Razer\Razer Cortex\x64\PMRunner64.exe
+0901 - 2ca0 FPSRunner32.exe                                                                  normal       C:\Program Files (x86)\Razer\Razer Cortex\FPSRunner32.exe
+0901 - 2dbc FPSRunner64.exe                                                                  normal       C:\Program Files (x86)\Razer\Razer Cortex\x64\FPSRunner64.exe
+0901 - 1f84 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 2f28 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 09fc audiodg.exe                                                                      normal       C:\Windows\System32\audiodg.exe
+0901 - 2910 ApplicationFrameHost.exe                                                         normal       C:\Windows\System32\ApplicationFrameHost.exe
+0901 - 1404 Music.UI.exe                                                                     normal       C:\Program Files\WindowsApps\Microsoft.ZuneMusic_10.21102.10421.0_x64__8wekyb3d8bbwe\Music.UI.exe
+0901 - 2eb0 HxOutlook.exe                                                                    normal       C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.20544.0_x64__8wekyb3d8bbwe\HxOutlook.exe
+0901 - 2f40 RuntimeBroker.exe                                                                normal       C:\Windows\System32\RuntimeBroker.exe
+0901 - 29b8 HxTsr.exe                                                                        normal       C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.20544.0_x64__8wekyb3d8bbwe\HxTsr.exe
+0901 - 30cc dllhost.exe                                                                      normal       C:\Windows\System32\dllhost.exe
+0901 - 3924 RuntimeBroker.exe                                                                normal       C:\Windows\System32\RuntimeBroker.exe
+0901 - 37c4 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 3ea4 RuntimeBroker.exe                                                                normal       C:\Windows\System32\RuntimeBroker.exe
+0901 - 2e14 rundll32.exe                                                                     normal       C:\Windows\System32\rundll32.exe
+0901 - 1adc AvastUI.exe                                                                      normal       C:\Program Files\AVAST Software\Avast\AvastUI.exe
+0901 - 16a4 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 41f4 SystemSettingsBroker.exe                                                         normal       C:\Windows\System32\SystemSettingsBroker.exe
+0901 - 0628 DataExchangeHost.exe                                                             above normal C:\Windows\System32\DataExchangeHost.exe
+0901 - 480c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 3480 SearchIndexer.exe                                                                normal       C:\Windows\System32\SearchIndexer.exe
+0901 - 3f70 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 485c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 4b94 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 3910 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 4270 MoUsoCoreWorker.exe                                                              normal       C:\Windows\System32\MoUsoCoreWorker.exe
+0901 - 4b64 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 3988 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 42c0 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 2854 jusched.exe                                                                      normal       C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe
+0901 - 4884 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 48e0 spoolsv.exe                                                                      normal       C:\Windows\System32\spoolsv.exe
+0901 - 2aa4 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 39b8 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 4868 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 24d4 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 4948 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 4af4 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 3ca0 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 1eb8 Taskmgr.exe                                                                      normal       C:\Windows\System32\Taskmgr.exe
+0901 - 2bcc svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 44ec svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 2dd4 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 1aec SystemSettings.exe                                                               normal       C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+0901 - 41a8 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 3c08 wuauclt.exe                                                                      normal       C:\Windows\System32\wuauclt.exe
+0901 - 30e0 svchost.exe                                                                                   
+0901 - 161c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 3418 svchost.exe                                                                                   
+0901 - 460c TrustedInstaller.exe                                                             normal       C:\Windows\servicing\TrustedInstaller.exe
+0901 - 3edc TiWorker.exe                                                                     normal       C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.1220_none_7e21bc567c7ed16b\TiWorker.exe
+0901 - 36f8 VSSVC.exe                                                                        normal       C:\Windows\System32\VSSVC.exe
+0901 - 414c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 2fc0 WmiPrvSE.exe                                                                     normal       C:\Windows\System32\wbem\WmiPrvSE.exe
+0901 - 4978 SrTasks.exe                                                                      idle         C:\Windows\System32\SrTasks.exe
+0901 - 4730 conhost.exe                                                                      normal       C:\Windows\System32\conhost.exe
+
+----------------------------------
+10 - Service
+----------------------------------
+
+1001 - Adobe Acrobat Update Service - ["C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe"]
+1001 - AdobeUpdateService - ["C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\ElevationManager\AdobeUpdateService.exe"]
+1001 - Andrea RT Filters Service - ["C:\Program Files\Realtek\Audio\HDA\AERTSr64.EXE"]
+1001 - Adobe Genuine Monitor Service - ["C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\AGMService.exe"]
+1001 - Adobe Genuine Software Integrity Service - ["C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\AGSService.exe"]
+1001 - Alps HID Monitor Service - [C:\Program Files\Apoint2K\HidMonitorSvc.exe]
+1001 - Application Host Helper Service - [C:\WINDOWS\system32\svchost.exe -k apphost]
+1001 - Application Information - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - AppX Deployment Service (AppXSVC) - [C:\WINDOWS\system32\svchost.exe -k wsappx -p]
+1001 - aswbIDSAgent - ["C:\Program Files\AVAST Software\Avast\aswidsagent.exe"]
+1001 - Windows Audio Endpoint Builder - [C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - Windows Audio - [C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p]
+1001 - Avast Antivirus - ["C:\Program Files\AVAST Software\Avast\AvastSvc.exe" /runassvc]
+1001 - Avast Tools - ["C:\Program Files\AVAST Software\Avast\aswToolsSvc.exe" /runassvc]
+1001 - AvastWscReporter - ["C:\Program Files\AVAST Software\Avast\wsc_proxy.exe" /runassvc /rpcserver]
+1001 - AzureAttestService - [C:\WINDOWS\system32\svchost.exe -k AzureAttestService]
+1001 - Base Filtering Engine - [C:\WINDOWS\system32\svchost.exe -k LocalServiceNoNetworkFirewall -p]
+1001 - Background Intelligent Transfer Service - [C:\WINDOWS\System32\svchost.exe -k netsvcs -p]
+1001 - BlueSoleilCS - [C:\Program Files (x86)\Ralink Corporation\Ralink Bluetooth Stack\BlueSoleilCS.exe]
+1001 - Background Tasks Infrastructure Service - [C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p]
+1001 - BsHelpCS - [C:\Program Files (x86)\Ralink Corporation\Ralink Bluetooth Stack\BsHelpCS.exe]
+1001 - AVCTP service - [C:\WINDOWS\system32\svchost.exe -k LocalService -p]
+1001 - Capability Access Manager Service - [C:\WINDOWS\system32\svchost.exe -k appmodel -p]
+1001 - Connected Devices Platform Service - [C:\WINDOWS\system32\svchost.exe -k LocalService -p]
+1001 - Client License Service (ClipSVC) - [C:\WINDOWS\System32\svchost.exe -k wsappx -p]
+1001 - CoreMessaging - [C:\WINDOWS\system32\svchost.exe -k LocalServiceNoNetwork -p]
+1001 - Cryptographic Services - [C:\WINDOWS\system32\svchost.exe -k NetworkService -p]
+1001 - DCOM Server Process Launcher - [C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p]
+1001 - Device Association Service - [C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - DHCP Client - [C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p]
+1001 - Connected User Experiences and Telemetry - [C:\WINDOWS\System32\svchost.exe -k utcsvc -p]
+1001 - Display Policy Service - [C:\WINDOWS\system32\svchost.exe -k LocalService -p]
+1001 - Display Enhancement Service - [C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - DNS Client - [C:\WINDOWS\system32\svchost.exe -k NetworkService -p]
+1001 - Delivery Optimization - [C:\WINDOWS\System32\svchost.exe -k NetworkService -p]
+1001 - Diagnostic Policy Service - [C:\WINDOWS\System32\svchost.exe -k LocalServiceNoNetwork -p]
+1001 - Device Setup Manager - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Data Sharing Service - [C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - Data Usage - [C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p]
+1001 - Encrypting File System (EFS) - [C:\WINDOWS\System32\lsass.exe]
+1001 - EPSON V5 Service4(01) - [C:\ProgramData\EPSON\EPW!3 SSRP\E_S40STB.EXE]
+1001 - Windows Event Log - [C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p]
+1001 - COM+ Event System - [C:\WINDOWS\system32\svchost.exe -k LocalService -p]
+1001 - Function Discovery Provider Host - [C:\WINDOWS\system32\svchost.exe -k LocalService -p]
+1001 - Function Discovery Resource Publication - [C:\WINDOWS\system32\svchost.exe -k LocalServiceAndNoImpersonation -p]
+1001 - Windows Font Cache Service - [C:\WINDOWS\system32\svchost.exe -k LocalService -p]
+1001 - Windows Presentation Foundation Font Cache 3.0.0.0 - [C:\WINDOWS\Microsoft.Net\Framework64\v3.0\WPF\PresentationFontCache.exe]
+1001 - HP Service - [C:\WINDOWS\system32\Hpservice.exe]
+1001 - HP Support Solutions Framework Service - ["C:\Program Files (x86)\Hewlett-Packard\HP Support Solutions\HPSupportSolutionsFrameworkService.exe"]
+1001 - Intel(R) HD Graphics Control Panel Service - [C:\WINDOWS\system32\igfxCUIService.exe]
+1001 - IKE and AuthIP IPsec Keying Modules - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Microsoft Store Install Service - [C:\WINDOWS\System32\svchost.exe -k netsvcs -p]
+1001 - IP Helper - [C:\WINDOWS\System32\svchost.exe -k NetSvcs -p]
+1001 - CNG Key Isolation - [C:\WINDOWS\system32\lsass.exe]
+1001 - Server - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Workstation - [C:\WINDOWS\System32\svchost.exe -k NetworkService -p]
+1001 - Geolocation Service - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Windows License Manager Service - [C:\WINDOWS\System32\svchost.exe -k LocalService -p]
+1001 - TCP/IP NetBIOS Helper - [C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p]
+1001 - Local Session Manager - [C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p]
+1001 - Windows Defender Firewall - [C:\WINDOWS\system32\svchost.exe -k LocalServiceNoNetworkFirewall -p]
+1001 - SQL Server Integration Services 12.0 - ["C:\Program Files\Microsoft SQL Server\120\DTS\Binn\MsDtsSrvr.exe"]
+1001 - Message Queuing - [C:\WINDOWS\system32\mqsvc.exe]
+1001 - SQL Full-text Filter Daemon Launcher (MSSQLSERVER) - ["C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\Binn\fdlauncher.exe" -s MSSQL12.MSSQLSERVER]
+1001 - SQL Server (MSSQLSERVER) - ["C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\Binn\sqlservr.exe" -sMSSQLSERVER]
+1001 - SQL Server Analysis Services (MSSQLSERVER) - ["C:\Program Files\Microsoft SQL Server\MSAS12.MSSQLSERVER\OLAP\bin\msmdsrv.exe" -s "C:\Program Files\Microsoft SQL Server\MSAS12.MSSQLSERVER\OLAP\Config"]
+1001 - Network Connection Broker - [C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - Network Connected Devices Auto-Setup - [C:\WINDOWS\System32\svchost.exe -k LocalServiceNoNetwork -p]
+1001 - Net.Msmq Listener Adapter - ["C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\SMSvcHost.exe" -NetMsmqActivator]
+1001 - Net.Pipe Listener Adapter - [C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\SMSvcHost.exe]
+1001 - Network List Service - [C:\WINDOWS\System32\svchost.exe -k LocalService -p]
+1001 - Net.Tcp Listener Adapter - [C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\SMSvcHost.exe]
+1001 - Net.Tcp Port Sharing Service - [C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\SMSvcHost.exe]
+1001 - Network Location Awareness - [C:\WINDOWS\System32\svchost.exe -k NetworkService -p]
+1001 - Network Store Interface Service - [C:\WINDOWS\system32\svchost.exe -k LocalService -p]
+1001 - Internet Pass-Through Service - [C:\Program Files (x86)\HTC\Internet Pass-Through\PassThruSvr.exe]
+1001 - Program Compatibility Assistant Service - [C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - Plug and Play - [C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p]
+1001 - Power - [C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p]
+1001 - User Profile Service - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Remote Access Connection Manager - [C:\WINDOWS\System32\svchost.exe -k netsvcs]
+1001 - Razer Game Manager - ["C:\Program Files (x86)\Razer\Razer Services\GMS\GameManagerService.exe"]
+1001 - SQL Server Reporting Services (MSSQLSERVER) - ["C:\Program Files\Microsoft SQL Server\MSRS12.MSSQLSERVER\Reporting Services\ReportServer\bin\ReportingServicesService.exe"]
+1001 - Radio Management Service - [C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted]
+1001 - RPC Endpoint Mapper - [C:\WINDOWS\system32\svchost.exe -k RPCSS -p]
+1001 - Remote Procedure Call (RPC) - [C:\WINDOWS\system32\svchost.exe -k rpcss -p]
+1001 - Realtek Audio Service - ["C:\Program Files\Realtek\Audio\HDA\RtkAudioService64.exe"]
+1001 - Razer Central Service - ["C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe"]
+1001 - RzKLService - ["C:\Program Files (x86)\Razer\Razer Cortex\RzKLService.exe"]
+1001 - Security Accounts Manager - [C:\WINDOWS\system32\lsass.exe]
+1001 - Task Scheduler - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Secondary Logon - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Windows Security Service - [C:\WINDOWS\system32\SecurityHealthService.exe]
+1001 - System Event Notification Service - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Remote Desktop Configuration - [C:\WINDOWS\System32\svchost.exe -k netsvcs -p]
+1001 - System Guard Runtime Monitor Broker - [C:\WINDOWS\system32\SgrmBroker.exe]
+1001 - Shell Hardware Detection - [C:\WINDOWS\System32\svchost.exe -k netsvcs -p]
+1001 - Print Spooler - [C:\WINDOWS\System32\spoolsv.exe]
+1001 - SQL Server Distributed Replay Client - ["C:\Program Files (x86)\Microsoft SQL Server\120\Tools\DReplayClient\DReplayClient.exe"]
+1001 - SQL Server Distributed Replay Controller - ["C:\Program Files (x86)\Microsoft SQL Server\120\Tools\DReplayController\DReplayController.exe"]
+1001 - SQL Server Browser - ["C:\Program Files (x86)\Microsoft SQL Server\90\Shared\sqlbrowser.exe"]
+1001 - SSDP Discovery - [C:\WINDOWS\system32\svchost.exe -k LocalServiceAndNoImpersonation -p]
+1001 - Secure Socket Tunneling Protocol Service - [C:\WINDOWS\system32\svchost.exe -k LocalService -p]
+1001 - State Repository Service - [C:\WINDOWS\system32\svchost.exe -k appmodel -p]
+1001 - Windows Image Acquisition (WIA) - [C:\WINDOWS\system32\svchost.exe -k imgsvc]
+1001 - Storage Service - [C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - Microsoft Software Shadow Copy Provider - [C:\WINDOWS\System32\svchost.exe -k swprv]
+1001 - SysMain - [C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - System Events Broker - [C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p]
+1001 - Touch Keyboard and Handwriting Panel Service - [C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - Telephony - [C:\WINDOWS\System32\svchost.exe -k NetworkService -p]
+1001 - TeraCopy Service - [C:\Program Files\TeraCopy\TeraCopyService.exe]
+1001 - Remote Desktop Services - [C:\WINDOWS\System32\svchost.exe -k NetworkService]
+1001 - Themes - [C:\WINDOWS\System32\svchost.exe -k netsvcs -p]
+1001 - Time Broker - [C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p]
+1001 - Web Account Manager - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Distributed Link Tracking Client - [C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - Windows Modules Installer - [C:\WINDOWS\servicing\TrustedInstaller.exe]
+1001 - Remote Desktop Services UserMode Port Redirector - [C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - UPnP Device Host - [C:\WINDOWS\system32\svchost.exe -k LocalServiceAndNoImpersonation -p]
+1001 - User Manager - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Update Orchestrator Service - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Credential Manager - [C:\WINDOWS\system32\lsass.exe]
+1001 - Volume Shadow Copy - [C:\WINDOWS\system32\vssvc.exe]
+1001 - Windows Time - [C:\WINDOWS\system32\svchost.exe -k LocalService]
+1001 - Windows Process Activation Service - [C:\WINDOWS\system32\svchost.exe -k iissvcs]
+1001 - Windows Biometric Service - [C:\WINDOWS\system32\svchost.exe -k WbioSvcGroup]
+1001 - Windows Connection Manager - [C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p]
+1001 - Diagnostic Service Host - [C:\WINDOWS\System32\svchost.exe -k LocalService -p]
+1001 - Diagnostic System Host - [C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - WinHTTP Web Proxy Auto-Discovery Service - [C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p]
+1001 - Windows Management Instrumentation - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - WLAN AutoConfig - [C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - Microsoft Account Sign-in Assistant - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - WMI Performance Adapter - [C:\WINDOWS\system32\wbem\WmiApSrv.exe]
+1001 - Windows Push Notifications System Service - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Security Center - [C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p]
+1001 - Windows Search - [C:\WINDOWS\system32\SearchIndexer.exe /Embedding]
+1001 - Windows Update - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Agent Activation Runtime_181fad - [C:\WINDOWS\system32\svchost.exe -k AarSvcGroup -p]
+1001 - Clipboard User Service_181fad - [C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p]
+1001 - Connected Devices Platform User Service_181fad - [C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup]
+1001 - Sync Host_181fad - [C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup]
+1001 - Contact Data_181fad - [C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup]
+1001 - Udk User Service_181fad - [C:\WINDOWS\system32\svchost.exe -k UdkSvcGroup]
+1001 - User Data Storage_181fad - [C:\WINDOWS\System32\svchost.exe -k UnistackSvcGroup]
+1001 - User Data Access_181fad - [C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup]
+1001 - Windows Push Notifications User Service_181fad - [C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup]
+
+----------------------------------
+12 - Event Log
+----------------------------------
+
+----------------------------------
+
+End of file - 57734 Bytes.

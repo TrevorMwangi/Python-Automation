@@ -1,10 +1,8 @@
-''' Using MIME (Multipurpose Internet Mail Extensions). Its is a standard that 
- extends the format of email messages to support text in character sets other than ASCII
-  as well as attachements of audio, video,images and app programs.'''
-
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+from email.mime.base import MIMEBase
+from email import encoders
 import getpass
 import msvcrt
 
@@ -24,7 +22,7 @@ def get_hidden_input(prompt="Enter password: "):
             print('*', end='', flush=True)
     return password
 
-def send_email(subject, body, receiver_email, smtp_server, smtp_port, sender_email, sender_password):
+def send_email(subject, body, receiver_email, smtp_server, smtp_port, sender_email, sender_password, attachment_path=None):
     # Set up the MIME
     message = MIMEMultipart()
     message["From"] = sender_email
@@ -33,6 +31,10 @@ def send_email(subject, body, receiver_email, smtp_server, smtp_port, sender_ema
 
     # Attach the body to the email
     message.attach(MIMEText(body, "plain"))
+
+    # Attach the text file if provided
+    if attachment_path:
+        attach_file(message, attachment_path)
 
     # Connect to the SMTP server
     with smtplib.SMTP_SSL(smtp_server, smtp_port) as server:
@@ -44,9 +46,21 @@ def send_email(subject, body, receiver_email, smtp_server, smtp_port, sender_ema
 
     print("Email sent successfully!")
 
+def attach_file(message, file_path):
+    # Open and attach the file
+    with open(file_path, "rb") as attachment:
+        part = MIMEBase("application", "octet-stream")
+        part.set_payload(attachment.read())
+        encoders.encode_base64(part)
+        part.add_header(
+            "Content-Disposition",
+            f"attachment; filename= {file_path.split('/')[-1]}"
+        )
+        message.attach(part)
+
 # Replace these variables with your own values
-subject = "Test Email"
-body = "This is a test email sent from a Python script."
+subject = "Test Email with Attachment"
+body = "This is a test email sent from a Python script with an attachment."
 receiver_email = "trvrmwangi@gmail.com"
 smtp_server = "smtp.gmail.com"
 smtp_port = 465
@@ -56,5 +70,7 @@ sender_email = "willfrazier715@gmail.com"
 sender_password = get_hidden_input("Enter your Gmail password: ")
 print("Sending your email now!")
 
-# Call the function to send the email
-send_email(subject, body, receiver_email, smtp_server, smtp_port, sender_email, sender_password)
+# Specify the path to the text file you want to attach
+attachment_path = r"C:\Users\TREVOR\Documents\GitHub\Python-Automation\CortexDiagnoseReport.txt" 
+# Call the function to send the email with attachment
+send_email(subject, body, receiver_email, smtp_server, smtp_port, sender_email, sender_password, attachment_path)
